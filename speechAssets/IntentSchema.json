@@ -1,0 +1,63 @@
+{
+  "intents": [
+    {
+      "intent" : "GetPickMeUpLowIntent", 
+      "slots": [
+        {
+          "name": "failed",
+          "type": "FAILED_ITEM"
+        }
+          
+      ] 
+    },
+    {
+      "intent" : "GetRelationshipAffirmation", 
+      "slots": [
+        {
+          "name": "relationship",
+          "type": "RELATIONSHIP"
+        }
+          
+      ] 
+    },
+    {
+      "intent" : "GetAffirmationIntent", 
+      "slots": [
+        {
+          "name": "affirm",
+          "type": "FALSE_IDENTITY"
+        }
+          
+      ] 
+    },
+    {
+      "intent" : "GetPickMeUpMedIntent",
+      "slots": [
+        {
+          "name": "failed",
+          "type": "FAILED_ITEM"
+        }
+          
+      ] 
+    },
+    {
+      "intent" : "GetPickMeUpHighIntent", 
+      "slots": [
+        {
+          "name": "failed",
+          "type": "FAILED_ITEM"
+        }
+          
+      ] 
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

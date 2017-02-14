@@ -1,0 +1,65 @@
+
+AMAZON.StopIntent no
+AMAZON.StopIntent nope
+AMAZON.StopIntent no thanks
+AMAZON.StopIntent no thank you
+
+GetPickMeUpLowIntent i need a pick me up
+GetPickMeUpLowIntent i'm kind of sad
+GetPickMeUpLowIntent i'm kind of mad
+GetPickMeUpLowIntent i'm kinda sad
+GetPickMeUpLowIntent i'm kinda mad 
+GetPickMeUpLowIntent i'm sad
+GetPickMeUpLowIntent i'm mad
+
+GetPickMeUpMedIntent i'm pretty sad
+GetPickMeUpMedIntent i'm pretty mad 
+GetPickMeUpMedIntent i'm so sad 
+GetPickMeUpMedIntent i failed my {failed}
+GetPickMeUpMedIntent i failed a {failed}
+GetPickMeUpMedIntent i fail at {failed}
+GetPickMeUpMedIntent i failed at {failed}
+GetPickMeUpMedIntent i failed the {failed}
+GetPickMeUpMedIntent i feel hurt
+
+GetPickMeUpHighIntent i want to die 
+GetPickMeUpHighIntent i'm so sad 
+GetPickMeUpHighIntent i'm so mad
+GetPickMeUpHighIntent life sucks
+GetPickMeUpHighIntent i'm a failure
+GetPickMeUpHighIntent i lost my job
+GetPickMeUpHighIntent i hate this job
+GetPickMeUpHighIntent i hate my job
+GetPickMeUpHighIntent i need a job
+GetPickMeUpHighIntent i can't find a job'
+GetPickMeUpHighIntent there are no jobs
+
+GetAffirmationIntent i am such a {affirm}
+GetAffirmationIntent i am such an {affirm}
+GetAffirmationIntent i feel {affirm}
+GetAffirmationIntent i feel so {affirm}
+GetAffirmationIntent i just feel so {affirm}
+GetAffirmationIntent i just feel {affirm}
+GetAffirmationIntent i feel like a {affirm}
+GetAffirmationIntent i feel like an {affirm}
+GetAffirmationIntent i feel like such a {affirm}
+GetAffirmationIntent i feel like such an {affirm}
+
+GetRelationshipAffirmation i just broke up
+GetRelationshipAffirmation i just broke up with 
+GetRelationshipAffirmation i broke up with my {relationship}
+GetRelationshipAffirmation i lost my {relationship}
+GetRelationshipAffirmation i don't love my {relationship}
+GetRelationshipAffirmation i don't love my {relationship} anymore
+GetRelationshipAffirmation my {relationship} doesn't love me
+GetRelationshipAffirmation my {relationship} doesn't love me anymore
+GetRelationshipAffirmation my {relationship}
+GetRelationshipAffirmation my {relationship} and i broke up
+GetRelationshipAffirmation my {relationship} broke up with me
+GetRelationshipAffirmation my {relationship} divorced me
+GetRelationshipAffirmation my {relationship} and I got divorced
+GetRelationshipAffirmation my {relationship} and I had a divorce
+GetRelationshipAffirmation my relationship
+GetRelationshipAffirmation my marriage
+GetRelationshipAffirmation i'm heartbroken
+GetRelationshipAffirmation my heart is broken
